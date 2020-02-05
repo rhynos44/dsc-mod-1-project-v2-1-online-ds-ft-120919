@@ -2,7 +2,7 @@
 
 ## Goals
 
-Given movie data, make recommendations on the type of movie a new production company should produce.
+Given movie data, make recommendations on the type of movie a new production company should produce. This <a href="https://github.com/rhynos44/dsc-mod-1-project-v2-1-online-ds-ft-120919/blob/master/project.ipynb">notebook</a> highlights the process and results of accomplishing this goal.
 
 #### What goes into a successful movie?  
 
